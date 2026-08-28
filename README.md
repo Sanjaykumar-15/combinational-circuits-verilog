@@ -15,8 +15,8 @@ Verilog-based combinational digital circuits with RTL, testbenches, simulations,
 ![Circuit Diagram](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWbc_3LdOYqaKH0Tn7Oj4QJEgttQvRWBrirBV_KqzieA&s=10) 
 -- 4 Bit Adder --
 ![Circuit Diagram](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSho42aWjEwumyK51nwCW3n9jH98vuS2ajEdfDw4965QyoL48nMXG3mJok&s=10) -- Carry Look Ahead Adder --
+![Circuit Diagram](https://www.researchgate.net/publication/363357975/figure/fig2/AS:11431281083468653@1662607275219/Block-diagram-of-Carry-Skip-Adder-B-CARRY-LOOK-AHEAD-ADDER-CLA-adder-14-is-also-known.png) -- Carry Save Adder --
 ![Circuit Diagram](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVOOxqdXSksZYgFSBwMKXbJ4-H-J5JqWxCLP1ORwmqyQ&s=10) -- Ripple Carry Adder --
-![Circuit Diagram] (https://www.researchgate.net/publication/363357975/figure/fig2/AS:11431281083468653@1662607275219/Block-diagram-of-Carry-Skip-Adder-B-CARRY-LOOK-AHEAD-ADDER-CLA-adder-14-is-also-known.png) -- Carry Skip Adder --
 ![Circuit Diagram](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqaoAERy1kwO4up-hbbEDrF9wjXxnBuFz0m58pGPtwq3i6iTDu4jg9S1I&s=10) -- BCD Adder --
 ![Circuit Diagram](https://vlsigyan.com/wp-content/uploads/2018/03/002_20_03_2018.jpg) -- Carry Save Adder --
 # Subtractor
